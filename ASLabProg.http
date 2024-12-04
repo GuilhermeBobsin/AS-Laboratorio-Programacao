@@ -1,0 +1,6 @@
+@ASLabProg_HostAddress = http://localhost:5273
+
+GET {{ASLabProg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
